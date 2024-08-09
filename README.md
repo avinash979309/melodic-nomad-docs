@@ -1,5 +1,3 @@
-# melodic-nomad-docs
-
 # MELODIC NOMAD
 
 **Purpose:**  
@@ -9,6 +7,10 @@ MELODIC NOMAD is an application designed to automate the process of uploading sh
 - Automatically cuts long videos into 60-second clips.
 - Sequentially uploads the short clips to a specified YouTube channel.
 - Allows users to provide custom captions for each video.
+
+**Important Links:**
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Service](terms-of-service.md)
 
 **Contact:**
 For support, contact us at melodiousguy123@gmail.com.

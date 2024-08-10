@@ -9,7 +9,7 @@ MELODIC NOMAD is an application designed to automate the process of uploading sh
 - Allows users to provide custom captions for each video.
 
 **Important Links:**
-- [Privacy Policy](privacy-policy.md)
+Link to Privacy Policy :  https://github.com/avinash979309/melodic-nomad-docs/blob/main/privacy-policy.md
 - [Terms of Service](terms-of-service.md)
 
 **Contact:**

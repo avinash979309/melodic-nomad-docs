@@ -12,5 +12,5 @@ MELODIC NOMAD is an application designed to automate the process of uploading sh
 - Privacy Policy Link : [Privacy Policy](https://avinash979309.github.io/melodic-nomad-docs/privacy-policy.html)
 - Terms of Service Link : [Terms of Service](https://avinash979309.github.io/melodic-nomad-docs/terms-of-service.html)
 
-**Contact:**
+*Contact:*
 For support, contact us at melodiousguy123@gmail.com.

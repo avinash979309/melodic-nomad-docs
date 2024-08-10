@@ -1,20 +1,34 @@
 # Privacy Policy for MELODIC NOMAD
 
-**Effective Date:** [09/08/2024]
+Effective Date: [10 Aug 2024]
 
-MELODIC NOMAD respects your privacy and is committed to protecting your personal data. This privacy policy explains how we handle your information when you use our app.
+**1. Introduction**
 
-**Information We Collect:**
-- **YouTube Account Information:** We access your YouTube account to upload videos. This includes obtaining OAuth tokens and video details provided by you.
-- **Usage Data:** We may collect information about how the app is used to improve functionality.
+Welcome to MELODIC NOMAD. We value your privacy and are committed to protecting your personal information.
 
-**How We Use Your Information:**
-- To upload and manage videos on your YouTube channel as instructed by you.
-- To improve our services and user experience.
+**2. Data Collection**
 
-**Data Security:**
-We take reasonable measures to protect your data but cannot guarantee absolute security.
+We collect information necessary to operate and improve our services. This includes data on your interactions with our app.
 
-**Contact Us:**
-If you have any questions or concerns, please contact us at melodiousguy123@gmail.com.
+**3. Use of Data**
+
+We use your data to provide and enhance our services, including automating video uploads to YouTube.
+
+**4. Data Protection**
+
+We implement security measures to protect your data from unauthorized access or disclosure.
+
+**5. User Rights**
+
+You have the right to access, correct, or delete your personal information. 
+
+**6. Contact Us**
+
+If you have any questions about this privacy policy, please contact us at melodiousguy123@gmail.com.
+
+**7. Changes to This Policy**
+
+We may update this policy from time to time. We will notify you of any changes by posting the new policy on our site.
+
+[Your Privacy Policy URL]
 

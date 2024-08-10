@@ -30,5 +30,5 @@ If you have any questions about this privacy policy, please contact us at melodi
 
 We may update this policy from time to time. We will notify you of any changes by posting the new policy on our site.
 
-[Your Privacy Policy URL]
+https://github.com/avinash979309/melodic-nomad-docs/blob/main/privacy-policy.md
 
